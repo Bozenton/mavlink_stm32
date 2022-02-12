@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/", 
+                "${workspaceFolder}/CORE",
+                "${workspaceFolder}/STM32F10x_FWLib/inc",
+                "${workspaceFolder}/SYSTEM/delay",
+                "${workspaceFolder}/SYSTEM/sys",
+                "${workspaceFolder}/SYSTEM/usart",
+                "${workspaceFolder}/USER",
+                "D:\\software\\Keil_v5\\ARM\\ARMCC\\include",
+                "${workspaceFolder}/FreeRTOS/include",
+                "${workspaceFolder}/FreeRTOS/portable/RVDS/ARM_CM3",
+                "${workspaceFolder}/HARDWARE/include",
+                "${workspaceFolder}/LOGIC/include",
+                "${workspaceFolder}/MESSAGE/include",
+                "${workspaceFolder}/MavlinkLib/common",
+                "${workspaceFolder}/MavlinkLib/minimal",
+                "${workspaceFolder}/MavlinkLib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                "STM32F10X_HD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "D:\\Visual Studio Community 2017\\VC\\Tools\\MSVC\\14.16.27023\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

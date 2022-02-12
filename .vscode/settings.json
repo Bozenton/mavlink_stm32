@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "mavinterface.h": "c",
+        "mavcommon.h": "c",
+        "mavmsg.h": "c",
+        "mavstartopticalflow.h": "c",
+        "taskquery.h": "c",
+        "servo.h": "c",
+        "openmv.h": "c",
+        "ultrasound.h": "c",
+        "statemachine.h": "c",
+        "fsmcondition.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "finitestatemachine.h": "c",
+        "freertos.h": "c",
+        "queue.h": "c",
+        "controller.h": "c",
+        "bluetooth.h": "c"
+    }
+}
